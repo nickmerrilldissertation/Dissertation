@@ -1,0 +1,68 @@
+todo: move out into a categorized "scratch" text file (left)
+
+
+
+
+
+
+Allow yourself to have under-specified *thoughts*. Speak in patterns rather than in implementations
+
+No matter ow fucked up yoo are, yoo still look good in the shirt
+a statement on theory versus observed in practic
+
+
+
+
+
+*earthquake gif
+indra story
+"What could go wrong?"
+	there's no "react" or "backbone" or "angular" for this
+	in fact, there's no good shit on this at all
+So design,
+i read a lot,
+what stuck with me?
+(under-specifying),
+	first i did this (why not websockets)
+	now how passthoughts?
+
+well,  (make this brief,5-10 mins)
+	first lets go back to the earthquake
+	things you can only sense in aggregate
+	work thats fascinated me lately, sensing emotion
+	what presumptions are we making when we talk about these things?
+		the big questions
+		the 'real' questions as well
+	criticism: 
+		>> emotions may consolodate as a consequence of INTERPERSONALLY DISTRIBUTED PROCESSES rather than as individual mental products of private calculations. .... arrive at shared/complimentary orientations toward events as a consequence of CONTINUAL RECIRPROCAL ADJUSTMENTS
+	*[earthquake gif]
+	[minds are blown]
+
+ARCHITECTURE
+	SO, we know the things inputs to our sensing system are distributed (remember?), but maybe the phenomena we're interested in sensing are distributed, too. much like the eathquake
+	..the directed graph..	
+
+now make your own architecture. (12m)
+
+now, think about something you've been wanting to sense, and talk about what assumptions you're making. (12m)
+
+
+use STREAMS
+	motivate
+	explain
+	*show an example  -  mouse clicks
+
+ARCHITECTURE
+	...GRAPH OF STREAMS!...
+	read streams / duplex streams / write streams
+
+
+
+
+Find the problems in your solutions
+	Fix those too
+No tradeoffs?
+	Not likely
+No questions?
+	Who knows everything?
+Write these down too
